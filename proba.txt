@@ -1,0 +1,52 @@
+Ukupno 7 artikala:
+
+***** 1. ARTIKL *****
+Ime: Arduino Nano ATmega328P
+Sifra: 91837
+Kolicina: 9
+Cijena: 19.99 kn
+*********************
+
+***** 2. ARTIKL *****
+Ime: Arduino Pro Mini
+Sifra: 68245
+Kolicina: 13
+Cijena: 24.99 kn
+*********************
+
+***** 3. ARTIKL *****
+Ime: DC-DC 5 To 3.3V Buck Step Down Regulator
+Sifra: 37618
+Kolicina: 5
+Cijena: 3.49 kn
+*********************
+
+***** 4. ARTIKL *****
+Ime: InfraRed senzor daljine 
+Sifra: 69137
+Kolicina: 15
+Cijena: 9.99 kn
+*********************
+
+***** 5. ARTIKL *****
+Ime: NRF240L1 Komunikacijski modul
+Sifra: 91758
+Kolicina: 7
+Cijena: 34.99 kn
+*********************
+
+***** 6. ARTIKL *****
+Ime: PAM8403, 5V, Klasa D, 2x3W
+Sifra: 78346
+Kolicina: 6
+Cijena: 6.49 kn
+*********************
+
+***** 7. ARTIKL *****
+Ime: TIP31C
+Sifra: 67912
+Kolicina: 23
+Cijena: 4.49 kn
+*********************
+
+Ukupna vrijednost u skladistu je 1059.22 kn
